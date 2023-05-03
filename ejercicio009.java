@@ -22,6 +22,7 @@ public class ejercicio009 {
 		else {
 			System.out.println("todos los numeros son iguales");
 		}
+		ent.close();
 	}
 	
 }

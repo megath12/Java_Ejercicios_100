@@ -16,7 +16,7 @@ public class ejercicio007 {
 		n2=n1-n2;
 		n1=n1-n2;
 		System.out.println("Cambio de posiciones Primer numero: "+n1+" Segundo numero: "+n2);
-
+		ent.close();
 	}
 	
 }

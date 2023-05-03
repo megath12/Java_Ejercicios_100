@@ -18,7 +18,7 @@ public class ejercicio006 {
 		n2=aux;
 		System.out.println("Cambios ... ");
 		System.out.println("Numero 1: "+n1+"  Numero 2: "+n2);
-
+		en.close();
 	}
 
 }

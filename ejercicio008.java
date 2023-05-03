@@ -12,10 +12,10 @@ public class ejercicio008 {
 		System.out.println("Escribe otro numero ");
 		String n2= ent.nextLine();
 		BigInteger en1 = new BigInteger(n1);
-		BigInteger en2 = new BigInteger(n1);
-		BigInteger suma = en1;
-		suma.add(en2);
-
+		BigInteger en2 = new BigInteger(n2);
+		BigInteger suma;
+		suma=en1.add(en2);
+		ent.close();
 		System.out.println("La suma es "+suma);
 	}
 	
