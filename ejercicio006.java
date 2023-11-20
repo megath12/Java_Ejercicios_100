@@ -22,3 +22,5 @@ public class ejercicio006 {
 	}
 
 }
+
+// How to swap 2nd no using 3rd variable

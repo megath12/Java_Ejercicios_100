@@ -16,3 +16,5 @@ public class ejercicio013 {
 		en.close();
 	}
 }
+
+// How to check Odd and Even Number

@@ -12,3 +12,6 @@ public class ejercicio002 {
 	}
 
 }
+
+
+// imprimir entero en java

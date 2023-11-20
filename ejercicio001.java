@@ -8,3 +8,5 @@ public class ejercicio001 {
 	}
 
 }
+
+// Simple java project

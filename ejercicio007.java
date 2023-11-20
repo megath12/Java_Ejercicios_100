@@ -20,3 +20,5 @@ public class ejercicio007 {
 	}
 	
 }
+
+// How to swap 2 no without using 3rd variable

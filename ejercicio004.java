@@ -16,3 +16,6 @@ public class ejercicio004 {
 	}
 
 }
+
+
+// How to get Using input using Scanner Program in java

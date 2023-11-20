@@ -26,3 +26,5 @@ public class ejercicio011 {
 		System.out.println("fin");
 	}
 }
+
+// If Else clause
